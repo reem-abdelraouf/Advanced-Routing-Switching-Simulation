@@ -6,7 +6,7 @@ This project is an **educational practice lab** specifically designed for networ
 Whether you want to train on complex routing scenarios, inter-VLAN routing, wireless integration, or network management services like **NTP** and **Syslog**, this topology has it all.
 
 ##  Network Topology
-![Network Topology](TOPOLGY 2.png)
+![TOPOLGY 2.png]
 
 ## 🚀 Key Learning Objectives & Features
 
